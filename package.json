@@ -1,0 +1,26 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "Hello world",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/le-yo/nodejs-hello.git"
+  },
+  "keywords": [
+    "Git",
+    "trial"
+  ],
+  "author": "Le-yo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/le-yo/nodejs-hello/issues"
+  },
+  "homepage": "https://github.com/le-yo/nodejs-hello#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
